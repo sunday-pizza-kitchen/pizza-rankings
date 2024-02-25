@@ -21,7 +21,8 @@ Pizzas within each grade are also ordered by preference with the pizzas on the
 top being more preferred than the pizzas on the bottom. Pizzas on the same
 bullet are considered equivalent or to have minimal differences on preference.
 
-Note that this list is based on *personal preference* and not actual *quality*.
+Note that this list is based on my *personal preference* and not on actual
+*quality*. Your personal preference may differ from the list presented here.
 Ranking is based on last known information and may not be up-to-date with
 current conditions.
 
