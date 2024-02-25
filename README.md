@@ -8,7 +8,8 @@ An `A` pizza is better than a `B` pizza, and a `C+` pizza is better than an
 If given a choice between pizza `X` and pizza `Y` and you would:
 
 - always choose pizza `X`, then pizza `X` is assigned a higher grade than pizza
-`Y` - sometimes choose pizza `X`, then pizza `X` and pizza `Y` are assigned the
+`Y`
+- sometimes choose pizza `X`, then pizza `X` and pizza `Y` are assigned the
 same grade
 
 With the additional caveat that you would tell another pizza lover that they:
