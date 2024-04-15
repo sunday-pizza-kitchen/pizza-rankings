@@ -34,11 +34,11 @@ current conditions.
 
 ### A
 - [2 Amys](https://2amyspizza.com/)
+- [Bennie's](https://www.benniespizzas.com/)
 
 ### A-
 - [Comet](https://www.cometpingpong.com/)
 - [Ponzetti's](https://www.facebook.com/ponzettis/menu/)
-- [Bennie's](https://www.benniespizzas.com/)
 
 ## Good
 
