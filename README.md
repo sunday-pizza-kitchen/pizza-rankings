@@ -100,4 +100,7 @@ current conditions.
 Locations that I have visited while on travel and unable to easily visit again
 for a follow-up confirmation of the rating:
 
+- [Amante Pizza](https://amante-pizza-kent.brygid.online): D+
+- [DiFara Pizza](https://www.caesars.com/caesars-palace/restaurants/forum-food-hall): F
 - [Pack's Tavern](https://packstavern.com/): C+
+  
