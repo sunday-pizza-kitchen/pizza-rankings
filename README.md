@@ -52,11 +52,11 @@ current conditions.
 - [HomeSlyce](https://homeslyce.com/)
 - [Bubba's](https://www.bubbas33.com/)
 - [BJ's (pan pizza only)](https://www.bjsrestaurants.com/)
-
+- [&pizza](https://andpizza.com/)
+  
 ### B -
 - [Ledo's (Chain)](https://ledopizza.com/)
 - [MOD](https://modpizza.com/)
-- [&pizza](https://andpizza.com/)
 - [Tony's](https://tonyspizzaoceancitymd.com/)
 - [Blaze](https://www.blazepizza.com/)
 
