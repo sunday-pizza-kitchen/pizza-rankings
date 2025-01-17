@@ -72,7 +72,7 @@ current conditions.
 
 ### C
 - [Grotto](https://www.grottopizza.com/)
-- [3 Brothers](https://www.threebrotherspizza.com/), [Trattoria Amore](https://trattoriaamore.com/)
+- [3 Brothers (Greenbelt)](https://www.threebrotherspizza.com/), [Trattoria Amore](https://trattoriaamore.com/)
 - [Dough Roller](https://thedoughroller.com/)
 - [Lombardi's](https://www.orderlombardis.com/)
 
@@ -94,6 +94,9 @@ current conditions.
 
 ### D-
 - [Ellio's](https://ellios.com/)
+
+### F
+- [3 Brothers (Columbia)](https://www.threebrotherspizza.com/)
 
 ## Travel Log
 
