@@ -103,6 +103,7 @@ current conditions.
 Locations that I have visited while on travel and unable to easily visit again
 for a follow-up confirmation of the rating:
 
+- [Pizzeria 'Lucci](https://www.pizzerialuccinj.com/): A+
 - [Amante Pizza](https://amante-pizza-kent.brygid.online): D+
 - [Jupiter Bar](https://www.jupiterbarseattle.com/): B+
 - [DiFara Pizza](https://www.caesars.com/caesars-palace/restaurants/forum-food-hall): F
