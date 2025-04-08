@@ -68,7 +68,7 @@ current conditions.
 - [Trattoria E Pizzeria Da Enrico](https://www.trattoriaepizzeria.com/)
 - [Pub Dog](https://pubdog.com/)
 - [Vocelli](https://www.vocellipizza.com/)
-- [NEO](https://neopizza.com/)
+- [NEO](https://neopizza.com/) - Out of Business
 
 ### C
 - [Grotto](https://www.grottopizza.com/)
